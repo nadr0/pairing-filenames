@@ -1,0 +1,14 @@
+{
+  "name": "instax",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "rename": "node ./index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "shortid": "^2.2.15"
+  }
+}
